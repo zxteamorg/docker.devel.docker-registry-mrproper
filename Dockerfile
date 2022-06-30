@@ -8,7 +8,7 @@ COPY LICENSE .
 COPY README.md .
 COPY NOTICE .
 COPY delete_image_matcher.py .
-COPY main.py .
+COPY docker_registry_mrproper.py .
 COPY docker-entrypoint.sh /stage/usr/local/bin/
 
 

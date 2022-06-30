@@ -1,6 +1,6 @@
 ./*
 
-!/delete_tags_matcher.py
+!/delete_image_matcher.py
 !/docker_registry_mrproper.py
 !/docker-entrypoint.sh
 !/LICENSE
